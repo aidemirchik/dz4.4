@@ -20,8 +20,6 @@ componentDidMount = () => {
       this._updatePlanet(id)
 }
 
-
-
   render() {
 
     // this.swapi.getPlanet(3)
